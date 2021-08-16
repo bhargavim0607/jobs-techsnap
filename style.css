@@ -570,10 +570,3 @@ html {
 }
 
 
-@media (max-width: 1300px) {
-	body{
-		overflow-x:hidden;
-	padding-left:0;
-	margin-left:0;
-	}
-}
